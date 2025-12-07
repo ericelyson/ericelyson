@@ -1,10 +1,25 @@
-- 👋 Hi, I’m @ericelyson
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Olá! Eu sou o Eric
 
-<!---
-ericelyson/ericelyson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Bem-vindo ao meu perfil do GitHub! Aqui compartilho meus estudos e projetos enquanto evoluo na área de **TI** e **programação**.
+
+## 🚀 Sobre mim
+
+* 💻 Trabalho com TI.
+* 📘 Estudo **JavaScript**, **C#**, **Linux**, **redes** e **Photoshop**.
+
+## 🛠️ Tecnologias
+
+* HTML, CSS, JavaScript
+* Linux
+* Git & GitHub
+
+## 📌 Projetos
+
+* 🎸 *Site História da Banda Nirvana* (HTML + CSS)
+* Outros projetos que estou desenvolvendo.
+
+## 📫 Contato
+
+* ✉️ *ericelyson85@gmail.com*
+
+Obrigado por visitar meu perfil! 🚀
